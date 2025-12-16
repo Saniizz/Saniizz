@@ -1,5 +1,5 @@
-# 💫 About Me:
-I’m a frontend development student with a strong interest in building clean, responsive and user-friendly web interfaces. I enjoy turning ideas into structured, functional solutions using modern web technologies.<br><br>Alongside tech, I run a creative baking business, which has strengthened my problem-solving skills, attention to detail and ability to manage real-world projects. I’m continuously learning and improving, with a focus on writing clean code and creating meaningful user experiences.
+# About Me:
+I’m a frontend development student with a strong interest in building clean, responsive and user-friendly web interfaces. I enjoy turning ideas into structured, functional solutions using modern web technologies.<br><br>Alongside tech, I run a creative baking business, which has strengthened my problem solving skills, attention to detail and ability to manage real world projects. I’m continuously learning and improving, with a focus on writing clean code and creating meaningful user experiences.
 
 
 ## 🌐 Socials:
